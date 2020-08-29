@@ -25,4 +25,4 @@ local Master another added line after committed but before push -- 08/28/2020
 dev remote changed -- 08/28/2020
 dev changed locally -- 08/28/2020
 
-
+new line2
