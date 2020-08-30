@@ -2,4 +2,33 @@ Git Demo2 test file
 
 adding 2nd line
 
-master push
+
+master push //from GitDemo2
+
+Modificaiton made from Remote Repo
+
+
+local changes.
+
+remote changes
+
+//File megered
+For dev brach -- 08/25/2020
+
+
+Master modificaiton from remote.  -- 08/28/2020
+
+local Master added line -- 08/28/2020
+local Master new added line -- 08/28/2020
+
+
+local Master another added line after committed but before push -- 08/28/2020
+
+//Megered with dev 08/28/2020 version
+dev remote changed -- 08/28/2020
+dev changed locally -- 08/28/2020
+
+newlines
+
+new line2
+
