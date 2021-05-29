@@ -29,7 +29,10 @@ dev remote changed -- 08/28/2020
 dev changed locally -- 08/28/2020
 dev changed locally -- 05/28/2021
 dev changed remotelly -- 05/58/2021
+//The following tow lines were conflicted. and it marked as resolved.
+remote deve change, might cause conflicts here!!!!!
 Real change made by remote master.
+
 newlines
 
 new line2
